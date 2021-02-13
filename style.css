@@ -1,0 +1,12 @@
+body {
+    background-color:red;
+}
+.ProfileBody {
+    margin: 20px;
+    background-color: yellow;
+}
+#name {
+    border: 5px solid blue;
+    margin: 2px;
+    padding: 30px;
+}
